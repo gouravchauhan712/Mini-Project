@@ -1,0 +1,32 @@
+/* styles.css */
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0; /* Light gray background */
+}
+
+.container {
+  max-width: 600px;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.container h2 {
+  color: #333;
+  background-color: yellow;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+.container p {
+  color: #555;
+  background-color: yellow;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+  
